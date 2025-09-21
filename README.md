@@ -32,26 +32,26 @@ go test ./10-testing-benchmarking/...
 
 ## Learning path
 
-[1. Getting Started]() // We are here
-2. Variables & Basic Types
-3. Control Flow (if, switch, loops)
-4. Functions & Multiple Returns
-5. Arrays, Slices, Maps
-6. Structs, Methods, Interfaces
-7. Packages & Modules
-8. Error Handling & Panic/Recover
-9. Concurrency: Goroutines & Channels
-10. Testing & Benchmarking
-11. I/O and Files
-12. HTTP & REST (net/http)
-13. Generics
-14. Context & Cancellation
-15. Reflection & Struct Tags
-16. CLI Tool (Cobra‑style without deps)
-17. Database (SQLite with `database/sql` + `modernc.org/sqlite`)
-18. JSON & YAML
-19. Logging & Configuration
-20. Advanced Concurrency Patterns
+- [1. Getting Started](https://github.com/fbrianzy/golang-fundamentals/tree/main/01-getting-started) // We are here
+- [2. Variables & Basic Types]()
+- [3. Control Flow (if, switch, loops)]()
+- [4. Functions & Multiple Returns]()
+- [5. Arrays, Slices, Maps]()
+- [6. Structs, Methods, Interfaces]()
+- [7. Packages & Modules]()
+- [8. Error Handling & Panic/Recover]()
+- [9. Concurrency: Goroutines & Channels]()
+- [10. Testing & Benchmarking]()
+- [11. I/O and Files]()
+- [12. HTTP & REST (net/http)]()
+- [13. Generics]()
+- [14. Context & Cancellation]()
+- [15. Reflection & Struct Tags]()
+- [16. CLI Tool (Cobra‑style without deps)]()
+- [17. Database (SQLite with `database/sql` + `modernc.org/sqlite`)]()
+- [18. JSON & YAML]()
+- [19. Logging & Configuration]()
+- [20. Advanced Concurrency Patterns]()
 
 > You don’t have to go in order—jump to what you need, then come back.
 
