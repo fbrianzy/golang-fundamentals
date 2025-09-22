@@ -32,8 +32,8 @@ go test ./10-testing-benchmarking/...
 
 ## Learning path
 
-- [1. Getting Started](https://github.com/fbrianzy/golang-fundamentals/tree/main/01-getting-started) // We are here
-- [2. Variables & Basic Types]()
+- [1. Getting Started](https://github.com/fbrianzy/golang-fundamentals/tree/main/01-getting-started)
+- [2. Variables & Basic Types](https://github.com/fbrianzy/golang-fundamentals/tree/main/02-variables-and-types) // We are here
 - [3. Control Flow (if, switch, loops)]()
 - [4. Functions & Multiple Returns]()
 - [5. Arrays, Slices, Maps]()
