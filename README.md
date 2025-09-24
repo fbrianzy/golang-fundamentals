@@ -35,8 +35,8 @@ go test ./10-testing-benchmarking/...
 - [1. Getting Started](https://github.com/fbrianzy/golang-fundamentals/tree/main/01-getting-started)
 - [2. Variables & Basic Types](https://github.com/fbrianzy/golang-fundamentals/tree/main/02-variables-and-types)
 - [3. Control Flow (if, switch, loops)](https://github.com/fbrianzy/golang-fundamentals/tree/main/03-control-flow)
-- [4. Functions & Multiple Returns](https://github.com/fbrianzy/golang-fundamentals/tree/main/04-functions) // We are here
-- [5. Arrays, Slices, Maps]()
+- [4. Functions & Multiple Returns](https://github.com/fbrianzy/golang-fundamentals/tree/main/04-functions)
+- [5. Arrays, Slices, Maps](https://github.com/fbrianzy/golang-fundamentals/tree/main/05-collections) // We are here
 - [6. Structs, Methods, Interfaces]()
 - [7. Packages & Modules]()
 - [8. Error Handling & Panic/Recover]()
