@@ -37,8 +37,8 @@ go test ./10-testing-benchmarking/...
 - [3. Control Flow (if, switch, loops)](https://github.com/fbrianzy/golang-fundamentals/tree/main/03-control-flow)
 - [4. Functions & Multiple Returns](https://github.com/fbrianzy/golang-fundamentals/tree/main/04-functions)
 - [5. Arrays, Slices, Maps](https://github.com/fbrianzy/golang-fundamentals/tree/main/05-collections)
-- [6. Structs, Methods, Interfaces](https://github.com/fbrianzy/golang-fundamentals/tree/main/06-structs-methods-interfaces) // We are here
-- [7. Packages & Modules]()
+- [6. Structs, Methods, Interfaces](https://github.com/fbrianzy/golang-fundamentals/tree/main/06-structs-methods-interfaces)
+- [7. Packages & Modules](https://github.com/fbrianzy/golang-fundamentals/tree/main/07-packages-and-modules) // We are here
 - [8. Error Handling & Panic/Recover]()
 - [9. Concurrency: Goroutines & Channels]()
 - [10. Testing & Benchmarking]()
