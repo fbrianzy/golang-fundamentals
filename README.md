@@ -40,8 +40,8 @@ go test ./10-testing-benchmarking/...
 - [6. Structs, Methods, Interfaces](https://github.com/fbrianzy/golang-fundamentals/tree/main/06-structs-methods-interfaces)
 - [7. Packages & Modules](https://github.com/fbrianzy/golang-fundamentals/tree/main/07-packages-and-modules)
 - [8. Error Handling & Panic/Recover](https://github.com/fbrianzy/golang-fundamentals/tree/main/08-errors-and-panic)
-- [9. Concurrency: Goroutines & Channels](https://github.com/fbrianzy/golang-fundamentals/tree/main/09-concurrency-basics) // We are here
-- [10. Testing & Benchmarking]()
+- [9. Concurrency: Goroutines & Channels](https://github.com/fbrianzy/golang-fundamentals/tree/main/09-concurrency-basics)
+- [10. Testing & Benchmarking](https://github.com/fbrianzy/golang-fundamentals/tree/main/10-testing-and-benchmarking) // We are here
 - [11. I/O and Files]()
 - [12. HTTP & REST (net/http)]()
 - [13. Generics]()
