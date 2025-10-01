@@ -43,8 +43,8 @@ go test ./10-testing-benchmarking/...
 - [9. Concurrency: Goroutines & Channels](https://github.com/fbrianzy/golang-fundamentals/tree/main/09-concurrency-basics)
 - [10. Testing & Benchmarking](https://github.com/fbrianzy/golang-fundamentals/tree/main/10-testing-and-benchmarking)
 - [11. I/O and Files](https://github.com/fbrianzy/golang-fundamentals/tree/main/11-io-and-files)
-- [12. HTTP & REST (net/http)](https://github.com/fbrianzy/golang-fundamentals/tree/main/12-http-and-rest) // We are here
-- [13. Generics]()
+- [12. HTTP & REST (net/http)](https://github.com/fbrianzy/golang-fundamentals/tree/main/12-http-and-rest)
+- [13. Generics](https://github.com/fbrianzy/golang-fundamentals/tree/main/13-generics) // We are here
 - [14. Context & Cancellation]()
 - [15. Reflection & Struct Tags]()
 - [16. CLI Tool (Cobra‑style without deps)]()
