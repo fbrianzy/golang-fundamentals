@@ -48,8 +48,8 @@ go test ./10-testing-benchmarking/...
 - [14. Context & Cancellation](https://github.com/fbrianzy/golang-fundamentals/tree/main/14-context-and-cancellation)
 - [15. Reflection & Struct Tags](https://github.com/fbrianzy/golang-fundamentals/tree/main/15-reflection-and-tags)
 - [16. CLI Tool (Cobra‑style without deps)](https://github.com/fbrianzy/golang-fundamentals/tree/main/16-cli-tool)
-- [17. Database (SQLite with `database/sql` + `modernc.org/sqlite`)](https://github.com/fbrianzy/golang-fundamentals/tree/main/17-database-sqlite) // We are here
-- [18. JSON & YAML]()
+- [17. Database (SQLite with `database/sql` + `modernc.org/sqlite`)](https://github.com/fbrianzy/golang-fundamentals/tree/main/17-database-sqlite)
+- [18. JSON & YAML](https://github.com/fbrianzy/golang-fundamentals/tree/main/18-json-and-yaml) // We are here
 - [19. Logging & Configuration]()
 - [20. Advanced Concurrency Patterns]()
 
