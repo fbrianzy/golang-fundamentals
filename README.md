@@ -49,8 +49,8 @@ go test ./10-testing-benchmarking/...
 - [15. Reflection & Struct Tags](https://github.com/fbrianzy/golang-fundamentals/tree/main/15-reflection-and-tags)
 - [16. CLI Tool (Cobra‑style without deps)](https://github.com/fbrianzy/golang-fundamentals/tree/main/16-cli-tool)
 - [17. Database (SQLite with `database/sql` + `modernc.org/sqlite`)](https://github.com/fbrianzy/golang-fundamentals/tree/main/17-database-sqlite)
-- [18. JSON & YAML](https://github.com/fbrianzy/golang-fundamentals/tree/main/18-json-and-yaml) // We are here
-- [19. Logging & Configuration]()
+- [18. JSON & YAML](https://github.com/fbrianzy/golang-fundamentals/tree/main/18-json-and-yaml)
+- [19. Logging & Configuration](https://github.com/fbrianzy/golang-fundamentals/tree/main/19-logging-and-config) // We are here
 - [20. Advanced Concurrency Patterns]()
 
 > You don’t have to go in order—jump to what you need, then come back.
